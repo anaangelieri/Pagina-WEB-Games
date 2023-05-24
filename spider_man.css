@@ -1,0 +1,78 @@
+body{
+    background-color: #26221f;
+    margin-top: 70px;
+    margin-left: 50px;;
+}
+
+.imagem_arredondada{
+    border-radius: 5%;
+}
+
+.bloco {
+    width: 260px;
+    border-radius: 4%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: 7px solid #252527;
+    background-color: #252527;
+}
+
+.fonte{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    color: #e58e27;
+    font-size: 25px;
+    text-align: start;
+    margin-top: 90px;
+}
+
+.botao{
+    width: 175px;
+    height: 35px;
+    border-radius: 100px;
+    background-color: #e58e27;
+    position: absolute;
+    top: 56%;
+    right: 80%;
+}
+
+.botao a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.bloco_marvel{
+    width: 350px;
+    height:350px;
+    background-color: #252527;
+    border-radius: 4%;
+    margin-left: 50%;
+    margin-top: -350px;
+}
+
+.fonte_marvel{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+
+.fonte_ps5{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(87, 81, 81);
+    margin-left: 10px;
+
+}
+
+.fonte_texto{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    margin-top: -10px;
+    margin-left: 10px;
+    font-size: 16px;
+}
